@@ -4,4 +4,5 @@ models/
 results/
 results/
 train_test_split/
+.envrc
 .venv/
